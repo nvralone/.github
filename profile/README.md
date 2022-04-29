@@ -1,12 +1,8 @@
-## Hi there 👋
+## never alone
+Never alone is a small HTML project website with a mission to make a site that aims to provide hotlines, and suicide prevention resources, while providing accessibility shortcuts for those in need of them.
 
-<!--
+# What the goal of "never alone." is:
+We aim to host a webpage that can load faster than most websites, making it easier for slower connections to load the list and get the resources they need.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### This project is still a W.I.P.
+This project is still a work in progress, and needs more resources added to the list, as well as a few changes. Until all the resources can be provided, there is a website that shows the FULL list of resources on a 3rd-party website.
