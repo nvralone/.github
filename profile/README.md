@@ -6,3 +6,5 @@ We aim to host a webpage that can load faster than most websites, making it easi
 
 ### This project is still a W.I.P.
 This project is still a work in progress, and needs more resources added to the list, as well as a few changes. Until all the resources can be provided, there is a website that shows the FULL list of resources on a 3rd-party website.
+
+[Go to Website](https://nvralone.github.io/site/)
