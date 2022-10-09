@@ -1,4 +1,4 @@
-# never alone
+# never alone (by [pvrz](https://github.com/pvrzz))
 Never alone is a small HTML project website with a mission to make a site that aims to provide hotlines, and suicide prevention resources, while providing accessibility shortcuts for those in need of them.
 
 ## What the goal of "never alone." is:
