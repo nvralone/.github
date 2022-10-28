@@ -7,4 +7,6 @@ We aim to host a lightweight HTML-based resource webpage that loads swiftly.
 ## This project is still a W.I.P.
 This project is still a work in progress, and needs more resources added to the list, as well as a few changes. Until all the resources can be provided, there is a website that shows the FULL list of resources on a 3rd-party website.
 
-[Go to Website](https://nvralone.github.io/site/)
+[Go to Website (via GitHub Pages)](https://nvralone.github.io/site/)
+
+[Go to Website (via pvrz's domain)](https://na.pvrz.ml/)
